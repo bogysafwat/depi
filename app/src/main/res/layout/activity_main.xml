@@ -8,7 +8,7 @@
 
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="300dp"
         android:text="24+35"
         android:textSize="60dp"
         android:textColor="@color/white"></TextView>
@@ -30,7 +30,7 @@
                 android:layout_weight="1"
                 android:background="@drawable/round_button2"
                 android:text="%"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
             <Button
@@ -40,7 +40,7 @@
                 android:background="@drawable/rounded_button3"
                 android:text="7"
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
             <Button
@@ -50,7 +50,7 @@
                 android:background="@drawable/rounded_button3"
                 android:text="4"
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
             <Button
@@ -60,7 +60,7 @@
                 android:background="@drawable/rounded_button3"
                 android:text="1"
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
             <Button
@@ -70,7 +70,7 @@
                 android:background="@drawable/rounded_button3"
                 android:text="C"
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
 
@@ -86,7 +86,7 @@
                 android:layout_weight="1"
                 android:background="@drawable/round_button2"
                 android:text="("
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
             <Button
@@ -96,7 +96,7 @@
                 android:background="@drawable/rounded_button3"
                 android:text="8"
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
             <Button
@@ -106,7 +106,7 @@
                 android:background="@drawable/rounded_button3"
                 android:text="5"
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
             <Button
@@ -116,7 +116,7 @@
                 android:background="@drawable/rounded_button3"
                 android:text="2"
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
             <Button
@@ -126,7 +126,7 @@
                 android:background="@drawable/rounded_button3"
                 android:text="0"
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
 
@@ -142,7 +142,7 @@
                 android:layout_weight="1"
                 android:background="@drawable/round_button2"
                 android:text=")"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
             <Button
@@ -152,7 +152,7 @@
                 android:background="@drawable/rounded_button3"
                 android:text="9"
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
             <Button
@@ -162,7 +162,7 @@
                 android:background="@drawable/rounded_button3"
                 android:text="6"
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
             <Button
@@ -172,7 +172,7 @@
                 android:background="@drawable/rounded_button3"
                 android:text="3"
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
             <Button
@@ -182,7 +182,7 @@
                 android:background="@drawable/rounded_button3"
                 android:text="."
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="5dp"></Button>
 
 
@@ -199,7 +199,7 @@
                 android:layout_weight="1"
                 android:background="@drawable/round_button"
                 android:text="+/-"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:textColor="@color/white"
                 android:layout_margin="10dp"
                 ></Button>
@@ -211,7 +211,7 @@
                 android:background="@drawable/round_button"
                 android:text="*"
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="10dp"
                 ></Button>
 
@@ -222,7 +222,7 @@
                 android:background="@drawable/round_button"
                 android:text="/"
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="10dp"
                 ></Button>
 
@@ -233,7 +233,7 @@
                 android:background="@drawable/round_button"
                 android:text="="
                 android:textColor="@color/white"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:layout_margin="10dp"
                 ></Button>
 
